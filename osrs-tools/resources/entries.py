@@ -31,6 +31,8 @@ entries_dict = {
     'League Points': 'league_points',
     'Bounty Hunter - Hunter': 'bounty_hunter_hunter',
     'Bounty Hunter - Rogue': 'bounty_hunter_rogue',
+    'Bounty Hunter (Legacy) - Hunter': 'bounty_hunter_legacy_hunter',
+    'Bounty Hunter (Legacy) - Rogue': 'bounty_hunter_legacy_rogue',
     'Clue Scrolls (all)': 'clue_scrolls_all',
     'Clue Scrolls (beginner)': 'clue_scrolls_beginner',
     'Clue Scrolls (easy)': 'clue_scrolls_easy',
@@ -129,6 +131,8 @@ activity_attributes = [
     'league_points',
     'bounty_hunter_hunter',
     'bounty_hunter_rogue',
+    'bounty_hunter_legacy_hunter',
+    'bounty_hunter_legacy_rogue',
     'clue_scrolls_all',
     'clue_scrolls_beginner',
     'clue_scrolls_easy',
@@ -198,6 +202,8 @@ boss_attributes = [
     'zalcano',
     'zulrah'
 ]
+
+all_entries = skill_attributes + activity_attributes + boss_attributes
 
 n_entries = len(entries_dict)
 
