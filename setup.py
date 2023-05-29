@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='osrs-tools',
+    name='osrs_tools',
     version='0.1a2',
     packages=['osrs-tools', 'osrs-tools.resources'],
     url='https://github.com/cdfisher/osrs-tools',
