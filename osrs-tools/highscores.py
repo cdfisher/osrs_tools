@@ -23,8 +23,7 @@ def get_target_type(target: str) -> str:
     elif target in boss_attributes:
         return 'boss'
     else:
-        # TODO it might be better to have this raise a ValueError
-        return f'Target {target} not recognized.'
+        raise ValueError(f'Target {target} not recognized.')
 
 
 class SkillEntry:
