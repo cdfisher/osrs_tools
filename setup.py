@@ -4,7 +4,7 @@ setup(
     name='osrs_tools',
     version='0.1a3',
     packages=['osrs_tools', 'osrs_tools.resources'],
-    url='https://github.com/cdfisher/osrs-tools',
+    url='https://github.com/cdfisher/osrs_tools',
     license='',
     author='Chris Fisher',
     author_email='cdfisher96@gmail.com',
