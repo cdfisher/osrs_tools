@@ -6,8 +6,8 @@ import json
 import requests
 from warnings import warn
 from pprint import pformat
-from resources.entries import *
-from resources.url_builder import build_url
+from .resources.entries import *
+from .resources.url_builder import build_url
 
 
 def get_target_type(target: str) -> str:
