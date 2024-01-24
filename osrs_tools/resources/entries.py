@@ -81,6 +81,7 @@ entries_dict = {
     'Phantom Muspah': 'phantom_muspah',
     'Sarachnis': 'sarachnis',
     'Scorpia': 'scorpia',
+    'Scurrius': 'scurrius',
     'Skotizo': 'skotizo',
     'Spindel': 'spindel',
     'Tempoross': 'tempoross',
