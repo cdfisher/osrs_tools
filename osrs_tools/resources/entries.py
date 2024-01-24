@@ -29,6 +29,7 @@ entries_dict = {
     'Hunter': 'hunter',
     'Construction': 'construction',
     'League Points': 'league_points',
+    'Deadman Points': 'deadman_points',
     'Bounty Hunter - Hunter': 'bounty_hunter_hunter',
     'Bounty Hunter - Rogue': 'bounty_hunter_rogue',
     'Bounty Hunter (Legacy) - Hunter': 'bounty_hunter_legacy_hunter',
@@ -134,6 +135,7 @@ skill_attributes = [
 
 activity_attributes = [
     'league_points',
+    'deadman_points',
     'bounty_hunter_hunter',
     'bounty_hunter_rogue',
     'bounty_hunter_legacy_hunter',
@@ -189,6 +191,7 @@ boss_attributes = [
     'phantom_muspah',
     'sarachnis',
     'scorpia',
+    'scurrius',
     'skotizo',
     'spindel',
     'tempoross',
