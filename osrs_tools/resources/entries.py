@@ -45,6 +45,7 @@ entries_dict = {
     'PvP Arena - Rank': 'pvp_arena_rank',
     'Soul Wars Zeal': 'soul_wars_zeal',
     'Rifts closed': 'rifts_closed',
+    'Colosseum Glory': 'colosseum_glory',
     'Abyssal Sire': 'abyssal_sire',
     'Alchemical Hydra': 'alchemical_hydra',
     'Artio': 'artio',
@@ -74,6 +75,7 @@ entries_dict = {
     'Kraken': 'kraken',
     'Kree\'Arra': 'kree_arra',
     'K\'ril Tsutsaroth': 'kril_tsutsaroth',
+    'Lunar Chests': 'lunar_chests',
     'Mimic': 'mimic',
     'Nex': 'nex',
     'Nightmare': 'nightmare',
@@ -84,6 +86,7 @@ entries_dict = {
     'Scorpia': 'scorpia',
     'Scurrius': 'scurrius',
     'Skotizo': 'skotizo',
+    'Sol Heredit': 'sol_heredit',
     'Spindel': 'spindel',
     'Tempoross': 'tempoross',
     'The Gauntlet': 'the_gauntlet',
@@ -150,7 +153,8 @@ activity_attributes = [
     'lms_rank',
     'pvp_arena_rank',
     'soul_wars_zeal',
-    'rifts_closed'
+    'rifts_closed',
+    'colosseum_glory'
 ]
 
 boss_attributes = [
@@ -183,6 +187,7 @@ boss_attributes = [
     'kraken',
     'kree_arra',
     'kril_tsutsaroth',
+    'lunar_chests',
     'mimic',
     'nex',
     'nightmare',
@@ -193,6 +198,7 @@ boss_attributes = [
     'scorpia',
     'scurrius',
     'skotizo',
+    'sol_heredit',
     'spindel',
     'tempoross',
     'the_gauntlet',
