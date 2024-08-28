@@ -48,6 +48,7 @@ entries_dict = {
     'Colosseum Glory': 'colosseum_glory',
     'Abyssal Sire': 'abyssal_sire',
     'Alchemical Hydra': 'alchemical_hydra',
+    'Araxxor': 'araxxor',
     'Artio': 'artio',
     'Barrows Chests': 'barrows_chests',
     'Bryophyta': 'bryophyta',
@@ -160,6 +161,7 @@ activity_attributes = [
 boss_attributes = [
     'abyssal_sire',
     'alchemical_hydra',
+    'araxxor'
     'artio',
     'barrows_chests',
     'bryophyta',
