@@ -48,6 +48,7 @@ entries_dict = {
     'Colosseum Glory': 'colosseum_glory',
     'Abyssal Sire': 'abyssal_sire',
     'Alchemical Hydra': 'alchemical_hydra',
+    'Amoxliatl': 'amoxliatl',
     'Araxxor': 'araxxor',
     'Artio': 'artio',
     'Barrows Chests': 'barrows_chests',
@@ -92,6 +93,7 @@ entries_dict = {
     'Tempoross': 'tempoross',
     'The Gauntlet': 'the_gauntlet',
     'The Corrupted Gauntlet': 'the_corrupted_gauntlet',
+    'The Hueycuatl': 'the_hueycoatl',
     'The Leviathan': 'the_leviathan',
     'The Whisperer': 'the_whisperer',
     'Theatre of Blood': 'theatre_of_blood',
@@ -161,6 +163,7 @@ activity_attributes = [
 boss_attributes = [
     'abyssal_sire',
     'alchemical_hydra',
+    'amoxliatl',
     'araxxor'
     'artio',
     'barrows_chests',
@@ -205,6 +208,7 @@ boss_attributes = [
     'tempoross',
     'the_gauntlet',
     'the_corrupted_gauntlet',
+    'the_hueycoatl',
     'the_leviathan',
     'the_whisperer',
     'theatre_of_blood',
