@@ -93,7 +93,7 @@ entries_dict = {
     'Tempoross': 'tempoross',
     'The Gauntlet': 'the_gauntlet',
     'The Corrupted Gauntlet': 'the_corrupted_gauntlet',
-    'The Hueycuatl': 'the_hueycoatl',
+    'The Hueycoatl': 'the_hueycoatl',
     'The Leviathan': 'the_leviathan',
     'The Whisperer': 'the_whisperer',
     'Theatre of Blood': 'theatre_of_blood',
@@ -164,7 +164,7 @@ boss_attributes = [
     'abyssal_sire',
     'alchemical_hydra',
     'amoxliatl',
-    'araxxor'
+    'araxxor',
     'artio',
     'barrows_chests',
     'bryophyta',
