@@ -96,6 +96,7 @@ entries_dict = {
     'The Corrupted Gauntlet': 'the_corrupted_gauntlet',
     'The Hueycoatl': 'the_hueycoatl',
     'The Leviathan': 'the_leviathan',
+    'The Royal Titans': 'the_royal_titans',
     'The Whisperer': 'the_whisperer',
     'Theatre of Blood': 'theatre_of_blood',
     'Theatre of Blood: Hard Mode': 'theatre_of_blood_hard_mode',
@@ -137,7 +138,7 @@ skill_attributes = [
     'farming',
     'runecraft',
     'hunter',
-    'construction'
+    'construction',
 ]
 
 activity_attributes = [
@@ -212,6 +213,7 @@ boss_attributes = [
     'the_corrupted_gauntlet',
     'the_hueycoatl',
     'the_leviathan',
+    'the_royal_titans',
     'the_whisperer',
     'theatre_of_blood',
     'theatre_of_blood_hard_mode',
@@ -226,7 +228,7 @@ boss_attributes = [
     'vorkath',
     'wintertodt',
     'zalcano',
-    'zulrah'
+    'zulrah',
 ]
 
 all_entries = skill_attributes + activity_attributes + boss_attributes
