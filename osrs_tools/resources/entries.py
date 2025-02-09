@@ -46,6 +46,7 @@ entries_dict = {
     'Soul Wars Zeal': 'soul_wars_zeal',
     'Rifts closed': 'rifts_closed',
     'Colosseum Glory': 'colosseum_glory',
+    'Collections Logged': 'collections_logged',
     'Abyssal Sire': 'abyssal_sire',
     'Alchemical Hydra': 'alchemical_hydra',
     'Amoxliatl': 'amoxliatl',
@@ -157,7 +158,8 @@ activity_attributes = [
     'pvp_arena_rank',
     'soul_wars_zeal',
     'rifts_closed',
-    'colosseum_glory'
+    'colosseum_glory',
+    'collections_logged',
 ]
 
 boss_attributes = [
