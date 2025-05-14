@@ -110,6 +110,7 @@ entries_dict = {
     'Vet\'ion': 'vet_ion',
     'Vorkath': 'vorkath',
     'Wintertodt': 'wintertodt',
+    'Yama': 'yama',
     'Zalcano': 'zalcano',
     'Zulrah': 'zulrah',
 }
@@ -227,6 +228,7 @@ boss_attributes = [
     'vet_ion',
     'vorkath',
     'wintertodt',
+    'yama',
     'zalcano',
     'zulrah',
 ]
